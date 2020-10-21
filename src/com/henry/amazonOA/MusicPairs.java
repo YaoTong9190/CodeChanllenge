@@ -36,5 +36,6 @@ public class MusicPairs {
         System.out.println(getSongPairCount(nums2));
         System.out.println(getSongPairCount(nums3));
         System.out.println(getSongPairCount(nums4));
+
     }
 }
