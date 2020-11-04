@@ -32,7 +32,6 @@ public class DiskSpaceAnalysis {
             }
             j++;
         }
-
         return maxMinima;
     }
 
